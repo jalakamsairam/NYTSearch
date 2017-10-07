@@ -1,0 +1,21 @@
+#header {
+  background-color: #483D8B;
+  color: white;
+}
+
+.panel-default>.panel-heading {
+ background-color: #483D8B; 
+}
+
+.panel-title {
+  color: white;
+}
+
+.glyphicon {
+  color: white;
+}
+
+.btn-default{
+  background-color: #FFB60D
+  
+}
